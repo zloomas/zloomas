@@ -4,8 +4,12 @@ Hi, I'm Zach!
 
 ### About me :nerd_face:
 - Florida Man :palm_tree: currently in Virginia
-- Aspiring data scientist
-- 
+- One dog that loves me, one cat that chooses
+to be nice to me sometimes
+- Professional question asker, generally determined 
+to get to the bottom of things :thinking:
+- Started in psychology, now a general data analyst
+- [Lifelong learner](#Certifications)
 
 ### Recent projects :man_technologist:
 
@@ -23,15 +27,18 @@ after about Generation 4 (there are currently 8 generations,
 with a 9th supposedly on the way at the end of 2022).
 - It was driving me crazy to feel like I could never get
 the target Pokémon if it came from Gen 5+, so I wanted to 
-build an automated player to supplement the gaps in my knowledge. Then I wanted that player to actually be good,
+build an automated player to supplement the gaps in my knowledge. 
+Then I wanted that player to actually be good,
 so I tried to help it get any secret Pokémon in as
 few guesses as possible.
 - My patent-pending Squirdle Solver:tm: uses something like
-a binary search approach to iteratively find the most median
-Pokémon from the set of remaining possible guesses, considering
-all 5 features that the game provides information about:
-generation, type 1, type 2, height, and weight.
-- Pro tip: start with [Simipour](https://bulbapedia.bulbagarden.net/wiki/Simipour_(Pok%C3%A9mon))! :droplet::monkey:
+a binary search approach to iteratively guess the median
+Pokémon given the set of remaining possible guesses.
+"Median" takes into account all 5 features that the game provides 
+information about: generation, type 1, type 2, height, and weight.
+- Pro tip: start with 
+[Simipour](https://bulbapedia.bulbagarden.net/wiki/Simipour_(Pok%C3%A9mon))! 
+:droplet::monkey:
 
 #### [Exploring the COS collaboration network on OSF](https://github.com/zloomas/COS-OSF-Network-Analysis)
 - Used data from the Open Science Framework
@@ -50,7 +57,14 @@ visualization centered on Dr. Mark Davis.
 - Mark is a family friend who retired from a career as a 
 research psychologist in 2020, and this was his Christmas
 present to commemorate his impact in the literature.
-- Data was gathered manually from WOS then processed with 
-pandas.
+- Data was gathered manually from WOS then processed 
+in Python with pandas.
 - Visualizations created in R using ggplot2 enhanced 
-with ggraph
+with ggraph.
+
+### Certifications
+- [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+| Udacity | In progress, expected completion June, 2022
+- [Data Engineer](https://www.dataquest.io/path/data-engineering/)
+| DataQuest | Completed April, 2022 | 
+[Certificate](https://app.dataquest.io/verify_cert/SRMBPRU9B6FEMJ7J0U57/)
