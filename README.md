@@ -6,10 +6,10 @@ Hi, I'm Zach!
 - Florida Man :palm_tree: currently in Virginia
 - One dog that loves me, one cat that chooses
 to be nice to me sometimes
-- Professional question asker, generally determined 
+- Professional question asker, ever determined 
 to get to the bottom of things :thinking:
-- Started in psychology, now a general data analyst
-- [Lifelong learner](#Certifications)
+- Started in psychology, now a general data engineer
+- [Lifelong learner](#continuing-education)
 
 ### Recent projects :man_technologist:
 
@@ -62,9 +62,9 @@ in Python with pandas.
 - Visualizations created in R using ggplot2 enhanced 
 with ggraph.
 
-### Certifications
-- [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
-| Udacity | In progress, expected completion June, 2022
+### Continuing education
+- [Computing for Data Analysis](https://www.edx.org/course/computing-for-data-analysis) 
+| Georgia Tech via EdX | Enrolled, expected completion May, 2023
 - [Data Engineer](https://www.dataquest.io/path/data-engineering/)
 | DataQuest | Completed April, 2022 | 
 [Certificate](https://app.dataquest.io/verify_cert/SRMBPRU9B6FEMJ7J0U57/)
