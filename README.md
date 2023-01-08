@@ -23,8 +23,7 @@ and get feedback on how your guess compares to the secret
 target Pokémon.
 - I've played at least one game from every generation of the
 series, but I'm an old man so I don't really know any Pokémon
-after about Generation 4 (there are currently 8 generations,
-with a 9th supposedly on the way at the end of 2022).
+after about Generation 4 (there are currently 9 generations).
 - It was driving me crazy to feel like I could never get
 the target Pokémon if it came from Gen 5+, so I wanted to 
 build an automated player to supplement the gaps in my knowledge. 
